@@ -28,7 +28,3 @@ function sayHiToGrandma(string) {
   return "YES INDEED!"
 }
 
-function notLongEnough(string) {
-  string===(string.length(8))
-  return "It's not long enough"
-}
